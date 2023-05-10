@@ -15,8 +15,6 @@ Those limitations aren't because of any particular reason, I just don't have any
 
 ## installing
 
-## installation and configuration
-
 1. Make a virtual environment
 
 `python3 -m venv .venv`
@@ -32,4 +30,3 @@ Those limitations aren't because of any particular reason, I just don't have any
 ## running
 
 `python3 main.py`
-
